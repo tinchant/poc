@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LLV3Vx7DeYcdw5BRYwoF0CtPjFsYSMrheJ50fhojxR0kSzSlpce5CBWMgDYc7iqMy7+2llxcyWpsknVIDTLW1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tinch\\source\\repos\\Poc\\Poc.UserDomain\\Poc.UserDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tinch\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

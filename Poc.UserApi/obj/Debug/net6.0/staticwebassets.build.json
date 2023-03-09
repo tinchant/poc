@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M1YyrgsjPbYmIOYb71fPtGiQsz1pZEY5HesuwSq9U2M=",
+  "Source": "Poc.UserApi",
+  "BasePath": "_content/Poc.UserApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
